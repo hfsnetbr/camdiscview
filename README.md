@@ -50,6 +50,10 @@ A Linux application written in Python/PySide6 to discover ONVIF and RTSP cameras
 
 This project is licensed under the MIT License.
 
+### Author
+
+**Henrique Fernandes Silveira** - [henriquefsilveira@gmail.com](mailto:henriquefsilveira@gmail.com)
+
 ---
 
 ## Português
@@ -112,3 +116,7 @@ sudo apt -f install
 ### Licença
 
 Este projeto está licenciado sob a Licença MIT.
+
+### Autor
+
+**Henrique Fernandes Silveira** - [henriquefsilveira@gmail.com](mailto:henriquefsilveira@gmail.com)
