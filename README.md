@@ -10,6 +10,12 @@ A Linux application written in Python/PySide6 to discover ONVIF and RTSP cameras
 
 ### Key Features
 
+![Camera Discovery GUI](docs/cameradiscovery.png)
+*Main Interface*
+
+![System Tray](docs/systray.png)
+*System Tray Icon*
+
 - Scan specific IP addresses (space/comma separated) or CIDR networks (default: `192.168.1.0/24`).
 - Optional `nmap` pre-scan for faster CIDR discovery.
 - Persistence: Saves settings and last scan results in `~/.config/camera-discovery/`.
@@ -61,6 +67,12 @@ This project is licensed under the MIT License.
 Aplicação Linux em Python/PySide6 para descobrir câmeras ONVIF/RTSP, abrir no `ffplay` e manter resultados/configurações salvos localmente.
 
 ### Recursos
+
+![Interface Camera Discovery](docs/cameradiscovery.png)
+*Interface Principal*
+
+![Ícone de Bandeja](docs/systray.png)
+*Ícone na Bandeja do Sistema (Tray)*
 
 - Aceita IPs separados por espaço/vírgula.
 - Aceita redes CIDR, por padrão `192.168.1.0/24`.
