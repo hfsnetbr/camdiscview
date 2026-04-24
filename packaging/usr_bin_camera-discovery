@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+APP_DIR="/opt/camera-discovery"
+exec "${APP_DIR}/camera-discovery" "$@"

@@ -1,0 +1,10 @@
+Package: camera-discovery
+Version: 0.1.0
+Section: net
+Priority: optional
+Architecture: all
+Maintainer: Rickz <rickz@example.com>
+Depends: ffmpeg, nmap
+Description: Descoberta e abertura de cameras ONVIF/RTSP
+ Aplicacao desktop para localizar cameras na rede, descobrir streams ONVIF/RTSP,
+ abrir video no ffplay e manter configuracoes/resultados salvos localmente.

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Camera Discovery
+Comment=Descobrir e abrir cameras ONVIF/RTSP
+Exec=camera-discovery --start-minimized
+Icon=camera-discovery
+Terminal=false
+Categories=Network;Video;Utility;
+StartupNotify=false

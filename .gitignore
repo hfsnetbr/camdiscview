@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Build and Distribution
+build/
+dist/
+*.spec
+
+# Local data
+snapshot.json
+
+# IDEs
+.vscode/
+.idea/
+.codex
+
+# OS
+.DS_Store

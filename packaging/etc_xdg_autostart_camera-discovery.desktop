@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Camera Discovery
+Comment=Iniciar Camera Discovery automaticamente ao entrar na sessao
+Exec=camera-discovery --start-minimized
+Icon=camera-discovery
+Terminal=false
+X-GNOME-Autostart-enabled=true
+StartupNotify=false
