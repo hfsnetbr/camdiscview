@@ -106,5 +106,8 @@ O pacote instala o launcher em `/usr/bin/camera-discovery` e configura o autosta
 - `ffplay` precisa estar instalado no sistema.
 - Câmeras sensíveis podem travar com sondas muito rápidas; a GUI possui atraso configurável entre tentativas.
 
+### License
+This project is licensed under the GNU General Public License v3.0.
+
 ---
 **Author:** Henrique Fernandes Silveira - [henriquefsilveira@gmail.com](mailto:henriquefsilveira@gmail.com)
