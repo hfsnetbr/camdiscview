@@ -62,6 +62,7 @@ Tested and working with major brands: **Hikvision, Dahua, Intelbras, TP-Link (Ta
 Uma ferramenta poderosa para Linux que elimina a dor de cabeça de encontrar URLs RTSP manualmente. Automatiza a descoberta de câmeras ONVIF e RTSP, permitindo verificação instantânea via `ffplay`.
 
 ### Por que usar?
+- **Uso Doméstico:** Abra e monitore as câmeras de segurança da sua casa diretamente no seu desktop Linux.
 - **Instaladores de CFTV:** Verifique rapidamente se as câmeras estão online e acessíveis sem precisar de um VMS pesado.
 - **Usuários de Smart Home:** Encontre os caminhos RTSP exatos para integrar no Home Assistant, Scrypted ou Frigate.
 - **Descoberta Inteligente:** Não apenas varre portas; negocia perfis ONVIF para obter a melhor qualidade e possui um fallback exaustivo para caminhos RTSP fora do padrão.
